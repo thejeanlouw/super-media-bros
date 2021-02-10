@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/super-media-bros/static/css/main.9ce78512.chunk.css",
-    "main.js": "/super-media-bros/static/js/main.72dd3d90.chunk.js",
-    "main.js.map": "/super-media-bros/static/js/main.72dd3d90.chunk.js.map",
+    "main.js": "/super-media-bros/static/js/main.d36ce784.chunk.js",
+    "main.js.map": "/super-media-bros/static/js/main.d36ce784.chunk.js.map",
     "runtime-main.js": "/super-media-bros/static/js/runtime-main.0e2a11fe.js",
     "runtime-main.js.map": "/super-media-bros/static/js/runtime-main.0e2a11fe.js.map",
     "static/js/2.5a2968cc.chunk.js": "/super-media-bros/static/js/2.5a2968cc.chunk.js",
     "static/js/2.5a2968cc.chunk.js.map": "/super-media-bros/static/js/2.5a2968cc.chunk.js.map",
     "index.html": "/super-media-bros/index.html",
-    "precache-manifest.13bdea5e13642feed2ffbe1cd7178b12.js": "/super-media-bros/precache-manifest.13bdea5e13642feed2ffbe1cd7178b12.js",
+    "precache-manifest.4349aa5027385183ce1ea201d861710c.js": "/super-media-bros/precache-manifest.4349aa5027385183ce1ea201d861710c.js",
     "service-worker.js": "/super-media-bros/service-worker.js",
     "static/css/main.9ce78512.chunk.css.map": "/super-media-bros/static/css/main.9ce78512.chunk.css.map",
     "static/js/2.5a2968cc.chunk.js.LICENSE.txt": "/super-media-bros/static/js/2.5a2968cc.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.0e2a11fe.js",
     "static/js/2.5a2968cc.chunk.js",
     "static/css/main.9ce78512.chunk.css",
-    "static/js/main.72dd3d90.chunk.js"
+    "static/js/main.d36ce784.chunk.js"
   ]
 }
